@@ -7,7 +7,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/Market%20Performance%20vs%20Target%20Report.pdf_)
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Fiscal%20Year.pdf_) & _[Months](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Months.pdf_) 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Months.pdf) 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Markets.pdf_)
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/prajaktapalkar/Excel--Sales-Repository/blob/c8bc0678f4a6d99356c98a19d65e89c76c6d83dc/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
